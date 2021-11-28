@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 I am Soumya. I was a computer science teacher. 
-- 🌱 I’m currently learning : Machine Learning
 - 😄 Pronouns: she/her
-- Languages: Python :snake: | SQL |  HTML | CSS 
-- FrameWorks : Flask
 
 
 
