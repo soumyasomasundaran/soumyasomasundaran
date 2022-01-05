@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Soumya. I was a computer science teacher. 
-- 😄 Pronouns: she/her
+-she/her
+- 
 
 
 
