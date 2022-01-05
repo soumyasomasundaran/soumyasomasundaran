@@ -1,6 +1,7 @@
 ### Hi there 👋
 
--she/her
+- Computer Science teacher 
+- she/her
 - 
 
 
