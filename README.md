@@ -3,7 +3,7 @@
 - Was a Teacher of Computer Science.
 - Loves Algorithms and Problem Solving.
 - Primary Language is 🐍
-- Exploring ML currenlty.
+
 
 
 
