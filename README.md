@@ -1,8 +1,9 @@
 
 - she/her
-- Was a Teacher of Computer Science.
+- Software Developer Caterpillar Inc.
 - Loves Algorithms and Problem Solving.
-- Primary Language is 🐍
+
+
 
 
 
