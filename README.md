@@ -1,6 +1,6 @@
 
 - she/her
-- Software Developer Caterpillar Inc.
+- Software Engineer
 - C# , Python
 
 
